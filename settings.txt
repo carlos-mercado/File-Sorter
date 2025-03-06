@@ -1,0 +1,15 @@
+mp4:G:/SortedFolders/Videos
+txt:G:/SortedFolders/Documents
+pdf:G:/SortedFolders/Documents
+img:G:/SortedFolders/Images
+png:G:/SortedFolders/Images
+jpg:G:/SortedFolders/Images
+gif:G:/SortedFolders/Images
+mp3:G:/SortedFolders/Music
+flac:G:/SortedFolders/Music
+alac:G:/SortedFolders/Music
+wav:G:/SortedFolders/Music
+ogg:G:/SortedFolders/Music
+aac:G:/SortedFolders/Music
+aiff:G:/SortedFolders/Music
+webp:G:/SortedFolders/Images
